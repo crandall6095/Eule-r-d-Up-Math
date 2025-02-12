@@ -1,0 +1,1 @@
+Hi! This is my first attempt at publishing my angry spaghetti on the internet. This project performs a Euler's approximation with a cursed differential equation that my calc teacher gave me. Good luck have fun feel free to break this.
